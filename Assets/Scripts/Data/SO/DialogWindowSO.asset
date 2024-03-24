@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431c3dfeb16d05b44bc294b740ae80fc, type: 3}
+  m_Name: DialogWindowSO
+  m_EditorClassIdentifier: 
+  info: {fileID: 7455686938904272711, guid: b4774a2bbfbec194ab736f93f934a1e3, type: 3}
+  input: {fileID: 2447636413142076638, guid: d64f917729adbbd4a8e5c7964348ae7b, type: 3}
+  confirm: {fileID: 4302523869871364901, guid: 0011c252c592c8d4db2e817d9fad8d58, type: 3}
+  parent: {fileID: 3020839760121353424, guid: 4d85328fc95382749955f9876452fff1, type: 3}

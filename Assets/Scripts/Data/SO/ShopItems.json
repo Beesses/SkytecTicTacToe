@@ -1,0 +1,60 @@
+{
+    "shopItems": [
+        {
+            "key": "gold",
+            "amount": 100,
+            "price": "1.99",
+            "currency": "usd"
+        },
+        {
+            "key": "silver",
+            "amount": 5000,
+            "price": "0.99",
+            "currency": "usd"
+        },
+        {
+            "key": "starterPack",
+            "items": [
+                {
+                    "key": "sword",
+                    "param": "14"
+                },
+                {
+                    "key": "ressurect",
+                    "amount": 3
+                },
+                {
+                    "key": "pike",
+                    "param": "18"
+                }
+            ],
+            "price": "1.99",
+            "currency": "usd"
+        },
+        {
+            "key": "superPack",
+            "items": [
+                {
+                    "key": "gold",
+                    "amount": 200
+                },
+                {
+                    "key": "bow",
+                    "param": 20
+                },
+                {
+                    "key": "shield",
+                    "param": "8"
+                }
+            ],
+            "price": "3.99",
+            "currency": "usd"
+        },
+        {
+            "key": "silver",
+            "amount": 10000,
+            "price": "1.69",
+            "currency": "usd"
+        }
+    ]
+}

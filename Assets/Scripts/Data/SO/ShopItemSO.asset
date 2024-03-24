@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb7f7872153b43b49983a5a99621819a, type: 3}
+  m_Name: ShopItemSO
+  m_EditorClassIdentifier: 
+  shopItem: {fileID: 7246399290496155866, guid: 89383f671c1585a45a083bf4a55dad8c, type: 3}
+  shopItemPack: {fileID: 8879072008299693234, guid: 2ca864eb61f414f4aadbfdae09fc0bc1, type: 3}
+  packItem: {fileID: 4531635433336337711, guid: e5dfa077111a3394983a51522a984702, type: 3}
+  dialogDesc: Do you really want to buy this item?

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be9fafa9da2f9f340a00eb51319414d6, type: 3}
+  m_Name: LeaderBoard
+  m_EditorClassIdentifier: 
+  Nickname: Test
+  prefab: {fileID: 2164725480187273894, guid: 78e88fcda4aa429459449ddddcb564b7, type: 3}
+  Results: {fileID: 0}
+  LeaderDatas:
+  - Name: Petya
+    Score: 6000
+  - Name: Nikita
+    Score: 500
+  - Name: Andrey
+    Score: 500
+  - Name: Player283
+    Score: 400
+  - Name: Nagibator3000
+    Score: 200
+  - Name: Mixxing
+    Score: 200
+  - Name: Pavel
+    Score: 200
+  - Name: Test
+    Score: 200
+  - Name: Test
+    Score: 200
+  CheckLoad: 1
